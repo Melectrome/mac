@@ -1,0 +1,68 @@
+// Whitelist generated at Tue, 17 Apr 2018 20:55:33 +0200
+// Custom Whitelist ID: 8675
+
+// Share or view this whitelist:
+//	http://whitelist.tf/8675
+
+// New items added to the game are: allowed
+// Hats are: allowed
+// Miscs are: allowed
+// Pyrovision is: NOT allowed
+// Noisemakers are: NOT allowed
+// Restricted noisemakers are: NOT allowed
+// Halloween/Full Moon items are: allowed
+// Noise making miscs are: NOT allowed
+// Explosion on death miscs are: NOT allowed
+// Festive weapon reskins are: allowed
+// Botkiller weapon reskins are: allowed
+// All weapons are: allowed
+
+"item_whitelist"
+{
+	"unlisted_items_default_to"		"1"
+
+	//------------- Blocked weapons/reskins (Total: 1) --------------\\
+	//____________________________ Heavy ____________________________\\
+	"Deflector"							"0"
+
+	//------------- ConTrabanned ConTracker (Total: 1) --------------\\
+	//_________________________ All classes _________________________\\
+	"Activated Campaign 3 Pass"					"0"
+
+	//------------------- Noisemakers (Total: 14) -------------------\\
+	"Charity Noise Maker - Bell"					"0"
+	"Charity Noise Maker - Tingsha"					"0"
+	"Halloween Noise Maker - Banshee"				"0"
+	"Halloween Noise Maker - Black Cat"				"0"
+	"Halloween Noise Maker - Crazy Laugh"				"0"
+	"Halloween Noise Maker - Gremlin"				"0"
+	"Halloween Noise Maker - Stabby"				"0"
+	"Halloween Noise Maker - Werewolf"				"0"
+	"Halloween Noise Maker - Witch"					"0"
+	"Noise Maker - TF Birthday"					"0"
+	"Noise Maker - Vuvuzela"					"0"
+	"Noise Maker - Winter 2011"					"0"
+	"Promotional Noise Maker - Fireworks"				"0"
+	"Promotional Noise Maker - Koto"				"0"
+
+	//---------------------- Other (Total: 1) -----------------------\\
+	//_________________________ All classes _________________________\\
+	"TF_WEAPON_PASSTIME_GUN"					"0"
+
+	//-------------- Pyro/Romevision items (Total: 8) ---------------\\
+	//_________________________ All classes _________________________\\
+	"Autogrant Pyrovision Goggles"					"0"
+	"Pet Balloonicorn"						"0"
+	"Pet Reindoonicorn"						"0"
+	"Pyrovision Goggles"						"0"
+	//____________________________ Pyro _____________________________\\
+	"The Burning Bongos"						"0"
+	"The Infernal Orchestrina"					"0"
+	"The Lollichop"							"0"
+	"The Rainblower"						"0"
+
+	//------ Noise making/Explosion on death miscs (Total: 3) -------\\
+	"Bombinomicon"							"0"
+	"The Bootie Time"						"0"
+	"The Jingle Belt"						"0"
+}
